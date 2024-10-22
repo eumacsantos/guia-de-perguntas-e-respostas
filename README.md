@@ -1,6 +1,6 @@
 Projeto simples que cria uma plataforma de perguntas e respostas, utilizando a ideia do "falecido" Yahoo respostas.
 
-Vale lembrar que o layout não é o mesmo do Yahoo, pois foco do projeto é desenvolver um plataforma simples para revisão.
+Vale lembrar que o layout não é o mesmo do Yahoo, pois foco do projeto é desenvolver um plataforma simples para revisão de conceitos.
 
 Tecnologias utilizadas:
   Back-end: Node.js, Express.js, EJS, Sequelize e MySQL
